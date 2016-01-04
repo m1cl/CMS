@@ -5,7 +5,7 @@
 	# Database Connection...
 	$host = 'localhost';
 	$username = 'micl';
-	$password = 'applerock';
+	$password = '*******';
 	$databasename = 'labsolutions';
 	$link = mysqli_connect($host, $username, $password, $databasename) OR die('Could not connect because: '.mysqli_connect_error());
     
